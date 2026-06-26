@@ -1,0 +1,251 @@
+{
+  "users": [],
+  "products": [
+    {
+      "id": "rank-vortex",
+      "category": "ranks",
+      "name": "Vortex",
+      "description": "Premium Tier 1. Grants fly permissions, custom prefix [Vortex], and 3 monthly common keys.",
+      "price": 299,
+      "imageUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "rank-duper",
+      "category": "ranks",
+      "name": "Duper",
+      "description": "Grants 2x custom drops, double voting power, [Duper] prefix, and auto-sorting inventory.",
+      "price": 499,
+      "imageUrl": "https://w.wallhaven.cc/full/e7/wallhaven-e7651w.jpg",
+      "enabled": true
+    },
+    {
+      "id": "rank-warrior",
+      "category": "ranks",
+      "name": "Warrior",
+      "description": "Custom combat armor sets, PvP prefix [Warrior], combat keep-inventory, and daily kit access.",
+      "price": 799,
+      "imageUrl": "https://images.unsplash.com/photo-1614850523459-c2f4c699c52e?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "rank-terrorist",
+      "category": "ranks",
+      "name": "Terrorist",
+      "description": "Exclusive explosive kit, double TNT damage limits, customized prefix [Terrorist], and explosive particle trails.",
+      "price": 1199,
+      "imageUrl": "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "rank-spiderman",
+      "category": "ranks",
+      "name": "SpiderMan",
+      "description": "Web shooter gadgets, high jump, fall-damage immunity, unique prefix [SpiderMan], and climb boost abilities.",
+      "price": 1499,
+      "imageUrl": "https://images.unsplash.com/photo-1635805737707-575885ab0820?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "rank-shullvenom",
+      "category": "ranks",
+      "name": "ShullVenom",
+      "description": "The absolute supreme rank. Shulker box commands, black particles, venom venomous kit, custom pet, and priority slot access.",
+      "price": 2499,
+      "imageUrl": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "key-party",
+      "category": "keys",
+      "name": "Party Key",
+      "description": "Opens the Party Crate for a chance at high-tier random drops for everyone online.",
+      "price": 49,
+      "imageUrl": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "key-common",
+      "category": "keys",
+      "name": "Common Key",
+      "description": "Standard key to unlock resources, extra food, and common tools.",
+      "price": 19,
+      "imageUrl": "https://images.unsplash.com/photo-1582139329536-e7284fece509?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "key-rare",
+      "category": "keys",
+      "name": "Rare Key",
+      "description": "Unlock legendary enchantments, diamond gear, and premium consumables.",
+      "price": 99,
+      "imageUrl": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "key-koth",
+      "category": "keys",
+      "name": "KOTH Key",
+      "description": "Unlock massive riches from King of the Hill chests. Includes God Armor potential.",
+      "price": 199,
+      "imageUrl": "https://images.unsplash.com/photo-1535223289827-42f1e9919769?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "key-spawner",
+      "category": "keys",
+      "name": "Spawner Key",
+      "description": "Grants random spawn crates with custom entities like Iron Golem, Blaze, or Creeper.",
+      "price": 299,
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "coins-100",
+      "category": "coins",
+      "name": "100 Coins Package",
+      "description": "Increments server wallet by 100 Gold Coins.",
+      "price": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "coins-500",
+      "category": "coins",
+      "name": "500 Coins Package",
+      "description": "Increments server wallet by 500 Gold Coins + 50 bonus coins.",
+      "price": 500,
+      "imageUrl": "https://images.unsplash.com/photo-1591154669695-5f2a8d20c089?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "coins-1000",
+      "category": "coins",
+      "name": "1000 Coins Package",
+      "description": "Increments server wallet by 1000 Gold Coins + 150 bonus coins.",
+      "price": 1000,
+      "imageUrl": "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "coins-5000",
+      "category": "coins",
+      "name": "5000 Coins Package",
+      "description": "Increments server wallet by 5000 Gold Coins + 1000 bonus coins.",
+      "price": 5000,
+      "imageUrl": "https://images.unsplash.com/photo-1561414927-6d86591d0c4f?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    },
+    {
+      "id": "coins-10000",
+      "category": "coins",
+      "name": "10000 Coins Package",
+      "description": "The King's Wallet. Increments server wallet by 10000 Gold Coins + 2500 bonus coins.",
+      "price": 10000,
+      "imageUrl": "https://images.unsplash.com/photo-1622630998477-20aa696ecb05?auto=format&fit=crop&w=400&q=80",
+      "enabled": true
+    }
+  ],
+  "orders": [
+    {
+      "id": "ord_7z35u01y6",
+      "userId": "admin-uid-1",
+      "username": "",
+      "userEmail": "minerift@gmail.com",
+      "items": [
+        {
+          "id": "oi_0_nzouv",
+          "productId": "coins-1000",
+          "name": "1000 Coins Package",
+          "category": "coins",
+          "price": 1000,
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1000,
+      "status": "pending",
+      "createdAt": "2026-06-26T10:31:46.600Z",
+      "updatedAt": "2026-06-26T10:31:46.600Z"
+    },
+    {
+      "id": "ord_vf8mmirps",
+      "userId": "admin-uid-1",
+      "username": "",
+      "userEmail": "minerift@gmail.com",
+      "items": [
+        {
+          "id": "oi_0_62bas",
+          "productId": "coins-1000",
+          "name": "1000 Coins Package",
+          "category": "coins",
+          "price": 1000,
+          "quantity": 1
+        },
+        {
+          "id": "oi_1_f5lp8",
+          "productId": "rank-duper",
+          "name": "Duper",
+          "category": "ranks",
+          "price": 499,
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1499,
+      "status": "pending",
+      "createdAt": "2026-06-26T10:31:58.126Z",
+      "updatedAt": "2026-06-26T10:31:58.126Z"
+    },
+    {
+      "id": "ord_tlao36s96",
+      "userId": "admin-uid-1",
+      "username": "",
+      "userEmail": "minerift@gmail.com",
+      "items": [
+        {
+          "id": "oi_0_quii6",
+          "productId": "coins-1000",
+          "name": "1000 Coins Package",
+          "category": "coins",
+          "price": 1000,
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 1000,
+      "status": "pending",
+      "createdAt": "2026-06-26T10:32:27.340Z",
+      "updatedAt": "2026-06-26T10:32:27.340Z"
+    }
+  ],
+  "notifications": [],
+  "settings": {
+    "websiteName": "MineRift",
+    "logo": "⚔️",
+    "serverIP": "play.minerift.in",
+    "port": 19132,
+    "discordLink": "https://discord.gg/minerift",
+    "storeBanner": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?auto=format&fit=crop&w=1200&q=80",
+    "homepageContent": {
+      "heroTitle": "India's Premium Minecraft Network",
+      "heroSubtitle": "Experience survival, factions, and customized skyblock with a zero-lag gaming environment, custom ranks, and an active gaming community.",
+      "featuresTitle": "Why MineRift?",
+      "featuresSubtitle": "Crafted for enthusiasts who demand stable networking, fair play, and pure excitement."
+    },
+    "maintenanceMode": false,
+    "maintenanceMessage": "MineRift is undergoing major expansion updates! Back soon in 2 hours.",
+    "countdownTimer": "",
+    "primaryColor": "#a855f7",
+    "secondaryColor": "#06b6d4",
+    "footerContent": "© 2026 MineRift Server & Store. We are not affiliated with Mojang AB or Microsoft.",
+    "socialLinks": {
+      "twitter": "https://twitter.com/minerift",
+      "youtube": "https://youtube.com/minerift",
+      "discord": "https://discord.gg/minerift"
+    }
+  },
+  "stats": {
+    "registeredUsers": 0,
+    "ordersCompleted": 0,
+    "onlinePlayers": 0,
+    "totalPurchases": 0
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "name": "MineRift",
+  "description": "India's Premium Minecraft Server & Store with dynamic player stats, administrative console, and a premium seamless payment checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
